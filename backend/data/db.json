@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "_id": "tdbvtztcl",
+      "name": "Saranya",
+      "email": "student@nexus.edu",
+      "password": "$2a$10$7mS8iyIlkW.AfFKC/WpQK.KnctyYurQjWtjK0zYLaB9Bx6idgIZIq",
+      "role": "User",
+      "createdAt": "2026-06-19T14:59:09.303Z"
+    }
+  ],
+  "tasks": [
+    {
+      "_id": "jew05eieq",
+      "title": "Weekly Report",
+      "description": "Compile all the progress metrics, completed tasks, and analytics from this week into a PDF document and email it to the project manager.",
+      "status": "Completed",
+      "priority": "Medium",
+      "dueDate": "2026-06-19",
+      "assignedUser": "tdbvtztcl",
+      "createdAt": "2026-06-19T15:01:01.292Z"
+    },
+    {
+      "_id": "hhhrs1fce",
+      "title": "Design Web Page",
+      "description": "Design a web page that would be useful to the software developers to increase their work speed.",
+      "status": "In Progress",
+      "priority": "Medium",
+      "dueDate": "2026-06-19",
+      "assignedUser": "tdbvtztcl",
+      "createdAt": "2026-06-19T15:24:51.177Z"
+    }
+  ]
+}
