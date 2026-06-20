@@ -1,6 +1,7 @@
 import axios from 'axios';
 
-const API_URL = 'http://localhost:5000/api';
+// The live Render production database URL
+const API_URL = 'https://o2h.onrender.com/api';
 
 const api = axios.create({
   baseURL: API_URL,
